@@ -8,6 +8,7 @@
 ---
 ## 🔹 Projeto Hotel Alura ⭐
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://i.imgur.com/4a3VU0w.mp4)
 
 ## 🖥️ Tecnologias Utilizadas:
 
